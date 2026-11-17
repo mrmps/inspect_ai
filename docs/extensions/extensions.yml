@@ -303,3 +303,9 @@
     answers in an Inspect log with an old and a new judge and shows which labels moved.
   author: "[Ogous Chan Ali](https://github.com/ogous)"
   categories: ["Analysis"]
+
+- name: "[Context.dev Web Search](https://github.com/mrmps/inspect-context-dev)"
+  description: |
+    Web search with query-relevant passages and source citations for Inspect evaluations.
+  author: "[Mike](https://github.com/mrmps)"
+  categories: ["Tooling"]
